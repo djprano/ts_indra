@@ -1,0 +1,33 @@
+{
+  "name": "ts_indra",
+  "version": "1.0.0",
+  "description": "Curso",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc_v": "tsc -v",
+    "ts-node":"ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djprano/ts_indra.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djprano/ts_indra/issues"
+  },
+  "homepage": "https://github.com/djprano/ts_indra#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.2"
+  }
+}
